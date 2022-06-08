@@ -1,5 +1,5 @@
 # Heterogeneous clustering in Data Mining
-Use different clustering algorithms to divide uniformly and normally distributed data into heterogeneous groups
+Use different clustering algorithms to divide uniformly and normally distributed datasets into heterogeneous clusters
 
 # algorithm
 1. S-shape placement  
